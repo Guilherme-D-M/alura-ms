@@ -1,0 +1,2 @@
+git clone --recursive https://github.com/CViniciusSDias/alura-ms.git
+docker-compose up

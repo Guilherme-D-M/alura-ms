@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-if [ ! -d vendor ]; then
+if [ ! -d vendor ]; 
+
+then
   composer install
 fi
 
