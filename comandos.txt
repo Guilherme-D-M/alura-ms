@@ -1,2 +1,5 @@
 git clone --recursive https://github.com/CViniciusSDias/alura-ms.git
 docker-compose up
+O remote em alguns casos já mantém a branch em vez de ir diretamente 
+para o commit. Não é o meu caso. O rebase é a estratégia de fazer o pull, 
+se ele vai fazer merge ou se ele vai fazer o rebase
